@@ -1,0 +1,14 @@
+
+.locker-display > div{
+  font-size: 80px;
+  -webkit-text-security: disc; 
+}
+
+.locker-display {
+  background-color:#e0e0e0;
+  color: black;
+  text-align: center;
+  flex: 0 0 auto;
+  height: 15%;
+  margin: 0px 1px 1px 1px;
+}

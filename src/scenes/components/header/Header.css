@@ -1,0 +1,24 @@
+
+.locker-header {
+  background-color: #e0e0e0;
+  color: black;
+  text-align: center;
+  width: 100%;
+  height: 16%;
+  margin: 1px 1px 1px 1px;
+  
+}
+
+.locker-header-top {
+  font-size: 28px;
+  font-weight: 600;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.locker-header-bottom {
+  font-size: 22px;
+  height: 40%;  
+}
